@@ -1,0 +1,35 @@
+/* client/src/pages/ProductDetails.css */
+
+.product-details-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-details-container img {
+    max-width: 300px;
+    height: auto;
+  }
+  
+  .product-details-container h1 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  .product-details-container p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .product-details-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .product-details-container button:hover {
+    background-color: #0056b3;
+  }
+  
